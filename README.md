@@ -1,2 +1,2 @@
 # Logger-Database-Management-System
-Creating modern login and sign-in pages for a logger database management system using the latest version of HTML CSS5, and JavaScript languages. 
+Creating modern login and sign-in pages for a logger database management system using the latest version of HTML CSS5, and JavaScript languages. The logger database webpage is intended to store logger information such as the serial number, the logger’s name and model, the ID it uses to identify itself and communicate with the data hosting server and website, the SIM card details used in the logger to send data to the server, and, finally, the site name and coordinates of where the logger was installed.
